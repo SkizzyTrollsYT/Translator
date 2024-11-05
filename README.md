@@ -1,7 +1,3 @@
-Here's a stylized GitHub repository description for your Translator project, incorporating Markdown features for better visual appeal:
-
----
-
 # 🌐 Translator
 
 Welcome to **Translator**, a powerful and user-friendly application designed to bridge communication gaps in multilingual gaming environments. This innovative tool captures spoken language in real-time, translating it into your preferred language, ensuring seamless interaction with players from around the world.
@@ -50,14 +46,10 @@ Contributions are welcome! If you have ideas for improvements, features, or enha
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙌 Acknowledgments
 
 This project utilizes powerful libraries including [SpeechRecognition](https://pypi.org/project/SpeechRecognition/), [Google Translate API](https://pypi.org/project/googletrans/), and [SoundDevice](https://pypi.org/project/sounddevice/). A big thanks to the developers behind these tools!
-
----
-
-Feel free to adjust any section or add more details to match your project's identity! Let me know if you need further modifications or additional sections.
