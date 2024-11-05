@@ -1,6 +1,6 @@
 # 🌐 Translator
 
-Welcome to **Translator**, a powerful and user-friendly application designed to bridge communication gaps in multilingual gaming environments. This innovative tool captures spoken language in real-time, translating it into your preferred language, ensuring seamless interaction with players from around the world.
+Welcome to **Skizzy Translator**, a powerful and user-friendly application designed to bridge communication gaps in multilingual gaming environments. This innovative tool captures spoken language in real-time, translating it into your preferred language, ensuring seamless interaction with players from around the world.
 
 ---
 
